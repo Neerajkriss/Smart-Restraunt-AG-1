@@ -1,0 +1,1 @@
+export { CustomQRCode } from './common/CustomQRCode';

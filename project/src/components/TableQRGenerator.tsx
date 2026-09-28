@@ -1,0 +1,1 @@
+export { TableQRGenerator } from './admin/TableQRGenerator';
